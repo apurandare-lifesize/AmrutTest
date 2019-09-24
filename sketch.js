@@ -3,7 +3,7 @@ function sum(a, b) {
 }
 
 function sayHelloTo(username){
-  return "Hello, " + username + "!!!!";
+  return "Hello, " + username + "!!";
 }
 
 function sub(a, b){

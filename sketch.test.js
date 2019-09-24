@@ -19,7 +19,7 @@ function sumTest() {
 }
 
 function helloTest() {
-  expect(sayHelloTo("Dan")).toBe("Hello, Dan!!!!");
+  expect(sayHelloTo("Dan")).toBe("Hello, Dan!!");
 }
 
 test('sayHelloTo function exists', () => {
