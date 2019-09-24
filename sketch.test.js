@@ -58,10 +58,6 @@ test('digital root of 265 should equal 4', () => {
   expect(digital_root(265)).toBe(4);
 })
 
-test('Sum42 function exists', () => {
-  expect(sum42).toBeDefined();
-});
-
 
 test('Sub function exists', () => {
   expect(sub).toBeDefined();
