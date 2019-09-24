@@ -14,6 +14,10 @@ function prod(a, b) {
   return a * b;
 }
 
+function sum42(a, b) {
+  return a + b + 42;
+}
+
 function answer() {
   return 42;
 }
